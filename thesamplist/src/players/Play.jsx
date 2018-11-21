@@ -29,7 +29,7 @@ class Play extends React.Component {
     return (
       <div>
         <ReactHowler
-          src="https://raw.githubusercontent.com/ArunMichaelDsouza/javascript-30-course/master/src/01-javascript-drum-kit/sounds/snare.wav"
+          src="https://http://thesamplist/thesamplist/src/assets/sounds/tromb-sesame.aif"
           playing={this.state.playing}
         />
         <Button onClick={this.handlePlay}>Play</Button>
