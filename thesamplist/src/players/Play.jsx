@@ -1,6 +1,9 @@
 import React from "react";
 import ReactHowler from "react-howler";
 import Button from "../components/Button";
+import { Howl, Howler } from "howler";
+
+// const { Howl, Howler } = require("howler");
 
 class Play extends React.Component {
   constructor(props) {
@@ -29,7 +32,7 @@ class Play extends React.Component {
     return (
       <div>
         <ReactHowler
-          src="https://http://thesamplist/thesamplist/src/assets/sounds/tromb-sesame.aif"
+          src="https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/bateria_espectacular-kick%202.wav"
           playing={this.state.playing}
         />
         <Button onClick={this.handlePlay}>Play</Button>
