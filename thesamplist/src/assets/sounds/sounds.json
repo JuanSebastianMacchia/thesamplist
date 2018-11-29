@@ -6,8 +6,8 @@
         "updated_at": "2012-12-04T08:24:51Z",
         "duration": 218.48,
         "original_file": {
-        "http_uri": "drtpe3yp3e35w.cloudfront.net/original_audios/4de3a1d0541290fd3000000e_4f96806c505ca25d71000001.mp3",
-        "size": 5243725},
+        "http_uri": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/aplauso_de_adriana.wav",
+        "size": 51},
         "category": "drumshot",
         "loop":"false"
     },
@@ -18,8 +18,8 @@
         "updated_at": "2012-12-04T08:24:51Z",
         "duration": 218.48,
         "original_file": {
-        "http_uri": "drtpe3yp3e35w.cloudfront.net/original_audios/4de3a1d0541290fd3000000e_4f96806c505ca25d71000001.mp3",
-        "size": 5243725},
+        "http_uri": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/art%20blakey%20_05_01%20REDO%202.wav",
+        "size": 78.4},
         "category": "drumshot",
         "loop":"false" 
     },
