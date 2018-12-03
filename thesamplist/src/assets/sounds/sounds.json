@@ -20,7 +20,7 @@
         "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/art%20blakey%20_05_01%20REDO%202.wav",
         "category": "drumshot",
         "loop":"false" 
-    }
+    },
     {
         "id": 3,
         "name": "art_blakey_05_01 REDO.wav",
@@ -31,7 +31,7 @@
         "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/art%20blakey%20_05_01%20REDO.wav",
         "category": "drumshot",
         "loop":"false" 
-    }
+    },
     {
         "id": 4,
         "name": "bateria_espectacular-CHH.wav",
