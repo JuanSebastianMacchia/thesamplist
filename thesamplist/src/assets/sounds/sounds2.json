@@ -457,7 +457,7 @@
     "updated_at": "2018-12-04T08:24:51Z",
     "duration": 218.48,
     "size": 78.4,
-    "src": "https://github.com/sebamacchia/thesamplist/blob/master/thesamplist/src/assets/sounds/marylin/marylin-aunnnC.wav",
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/marylin/marylin-aunnnC.wav",
     "category": "drumshot",
     "loop": "false"
   }
