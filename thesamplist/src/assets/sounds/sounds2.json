@@ -353,7 +353,7 @@
   },
   {
     "id": 33,
-    "name": "anime_soundtrack_nave-piano04.wav",
+    "name": "",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
     "duration": 218.48,
@@ -364,7 +364,7 @@
   },
   {
     "id": 34,
-    "name": "anime_soundtrack_nave-piano04.wav",
+    "name": "",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
     "duration": 218.48,
@@ -375,7 +375,7 @@
   },
   {
     "id": 35,
-    "name": "anime_soundtrack_nave-piano04.wav",
+    "name": "",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
     "duration": 218.48,
@@ -386,12 +386,12 @@
   },
   {
     "id": 36,
-    "name": "anime_soundtrack_nave-piano04.wav",
+    "name": "billie_holiday-kick01",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
     "duration": 218.48,
     "size": 78.4,
-    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/__ARPEGIOS/anime_soundtrack_nave-%20piano04.wav",
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/__ARPEGIOS/billie_holiday-kick0101.wav",
     "category": "drumshot",
     "loop": "false"
   },
