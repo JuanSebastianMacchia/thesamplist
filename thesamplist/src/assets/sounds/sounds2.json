@@ -353,7 +353,7 @@
   },
   {
     "id": 33,
-    "name": "anime_soundtrack_nave-piano08.wav",
+    "name": "anime_soundtrack_nave-piano04.wav",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
     "duration": 218.48,
@@ -392,6 +392,17 @@
     "duration": 218.48,
     "size": 78.4,
     "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/__ARPEGIOS/anime_soundtrack_nave-%20piano04.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 30,
+    "name": "billie_holiday-guitar01",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/__ARPEGIOS/billie_holiday-guitar01.wav",
     "category": "drumshot",
     "loop": "false"
   }
