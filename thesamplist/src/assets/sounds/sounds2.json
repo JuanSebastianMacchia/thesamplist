@@ -848,12 +848,23 @@
   },
   {
     "id": 77,
-    "name": "musicbox-01C1",
+    "name": "musicbox-02C1s",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
     "duration": 218.48,
     "size": 78.4,
     "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/music%20box-02C%231.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 78,
+    "name": "musicbox-03D1",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-03D1.wav",
     "category": "drumshot",
     "loop": "false"
   }
