@@ -716,17 +716,6 @@
   },
   {
     "id": 65,
-    "name": "piano-G",
-    "created_at": "2018-04-24T10:29:00Z",
-    "updated_at": "2018-12-04T08:24:51Z",
-    "duration": 218.48,
-    "size": 78.4,
-    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-05G.wav",
-    "category": "drumshot",
-    "loop": "false"
-  },
-  {
-    "id": 66,
     "name": "piano-A",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -737,7 +726,7 @@
     "loop": "false"
   },
   {
-    "id": 67,
+    "id": 66,
     "name": "piano-B",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -748,7 +737,7 @@
     "loop": "false"
   },
   {
-    "id": 68,
+    "id": 67,
     "name": "piano-C",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -759,7 +748,7 @@
     "loop": "false"
   },
   {
-    "id": 69,
+    "id": 68,
     "name": "piano-D",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -770,7 +759,7 @@
     "loop": "false"
   },
   {
-    "id": 70,
+    "id": 69,
     "name": "piano-E",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -781,7 +770,7 @@
     "loop": "false"
   },
   {
-    "id": 71,
+    "id": 70,
     "name": "piano-F",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -792,7 +781,7 @@
     "loop": "false"
   },
   {
-    "id": 72,
+    "id": 71,
     "name": "piano-G2",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -803,7 +792,7 @@
     "loop": "false"
   },
   {
-    "id": 73,
+    "id": 72,
     "name": "piano-A2",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -814,7 +803,7 @@
     "loop": "false"
   },
   {
-    "id": 74,
+    "id": 73,
     "name": "piano-B2",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -825,7 +814,7 @@
     "loop": "false"
   },
   {
-    "id": 75,
+    "id": 74,
     "name": "piano-C2",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
@@ -836,7 +825,7 @@
     "loop": "false"
   },
   {
-    "id": 76,
+    "id": 75,
     "name": "piano-D2",
     "created_at": "2018-04-24T10:29:00Z",
     "updated_at": "2018-12-04T08:24:51Z",
