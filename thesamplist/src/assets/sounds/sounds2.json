@@ -570,5 +570,27 @@
     "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/a-la-cage/el_fascinante_mundo-a-lo-cage4.wav",
     "category": "drumshot",
     "loop": "false"
+  },
+  {
+    "id": 52,
+    "name": "el_fascinante_mundo-cage5",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/a-la-cage/el_fascinante_mundo-a-lo-cage5.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 53,
+    "name": "el_fascinante_mundo-cage6",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/a-la-cage/el_fascinante_mundo-a-lo-cage6.wav",
+    "category": "drumshot",
+    "loop": "false"
   }
 ]
