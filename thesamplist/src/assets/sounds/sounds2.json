@@ -691,5 +691,159 @@
     "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-03E.wav",
     "category": "drumshot",
     "loop": "false"
+  },
+  {
+    "id": 63,
+    "name": "piano-F",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-04F.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 64,
+    "name": "piano-G",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-05G.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 65,
+    "name": "piano-G",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-05G.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 66,
+    "name": "piano-A",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-06A.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 67,
+    "name": "piano-B",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-06B.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 68,
+    "name": "piano-C",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-07C.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 69,
+    "name": "piano-D",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-08D.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 70,
+    "name": "piano-E",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-09E.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 71,
+    "name": "piano-F",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-10F.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 72,
+    "name": "piano-G2",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-11G.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 73,
+    "name": "piano-A2",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-12A.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 74,
+    "name": "piano-B2",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-13B.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 75,
+    "name": "piano-C2",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-14C.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 76,
+    "name": "piano-D2",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/piano/piano-15D.wav",
+    "category": "drumshot",
+    "loop": "false"
   }
 ]
