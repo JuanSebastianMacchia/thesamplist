@@ -878,5 +878,16 @@
     "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-04D%231.wav",
     "category": "drumshot",
     "loop": "false"
+  },
+  {
+    "id": 80,
+    "name": "musicbox-05E1",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-05E1.wav",
+    "category": "drumshot",
+    "loop": "false"
   }
 ]
