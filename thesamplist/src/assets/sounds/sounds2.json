@@ -1109,5 +1109,137 @@
     "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/music%20box-25C3.wav",
     "category": "drumshot",
     "loop": "false"
+  },
+  {
+    "id": 101,
+    "name": "musicbox-26C3s",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-26C%233.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 102,
+    "name": "musicbox-27D3",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-27D3.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 103,
+    "name": "musicbox-28D3s",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-28D%233.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 104,
+    "name": "musicbox-29E3",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-29E3.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 105,
+    "name": "musicbox-30F3",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-30F3.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 106,
+    "name": "musicbox-31F3s",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-31F%233.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 107,
+    "name": "musicbox-32G3",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-32G3.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 108,
+    "name": "musicbox-33G3s",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-33G%233.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 109,
+    "name": "musicbox-34A3",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-34A3.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 110,
+    "name": "musicbox-35A3s",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-35A%233.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 111,
+    "name": "musicbox-36B3",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-36B3.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 112,
+    "name": "musicbox-37C4",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-37C4.wav",
+    "category": "drumshot",
+    "loop": "false"
   }
 ]
