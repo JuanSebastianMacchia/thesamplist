@@ -1021,5 +1021,93 @@
     "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/musicbox/musicbox-17E2.wav",
     "category": "drumshot",
     "loop": "false"
+  },
+  {
+    "id": 93,
+    "name": "musicbox-18F2",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 94,
+    "name": "musicbox-19F2s",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 95,
+    "name": "musicbox-20G2",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 96,
+    "name": "musicbox-21G2s",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 97,
+    "name": "musicbox-22A2",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 98,
+    "name": "musicbox-23A2s",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 99,
+    "name": "musicbox-24B2",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 100,
+    "name": "musicbox-25C3",
+    "created_at": "2018-04-24T10:29:00Z",
+    "updated_at": "2018-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "",
+    "category": "drumshot",
+    "loop": "false"
   }
 ]
